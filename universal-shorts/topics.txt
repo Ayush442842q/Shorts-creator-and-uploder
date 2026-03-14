@@ -1,0 +1,692 @@
+What is Electricity
+Electric Charge
+Coulomb's Law
+Electric Current
+Voltage Explained
+Potential Difference
+Electric Power
+Energy in Electrical Systems
+Conductors vs Insulators
+Electric Field Basics
+Electric Potential
+Ohm's Law
+Resistance
+Resistivity
+Temperature Effect on Resistance
+Electrical Units Explained
+Series Circuits
+Parallel Circuits
+Kirchhoff's Current Law
+Kirchhoff's Voltage Law
+Voltage Divider Rule
+Current Divider Rule
+Short Circuits
+Open Circuits
+Power Dissipation
+Electrical Safety Basics
+Grounding Explained
+Earthing vs Grounding
+Electrical Symbols
+Basic Circuit Diagrams
+AC vs DC
+RMS Voltage
+Peak Voltage
+Frequency Explained
+Phase Angle
+Real Power
+Reactive Power
+Apparent Power
+Power Factor
+Electrical Efficiency
+Joule Heating
+Electric Shock Basics
+Circuit Protection
+Fuses Explained
+Circuit Breakers
+Electrical Load Types
+Passive Components
+Active Components
+Analog vs Digital Signals
+Electrical Measurement Basics
+Multimeter Usage
+Breadboard Basics
+Basic Wiring
+Electrical Standards
+Signal Basics
+Oscilloscope Basics
+Function Generator Basics
+Power Supply Basics
+Soldering Basics
+PCB Basics
+Wire Types
+Connector Types
+Electrical Noise
+Shielding Explained
+Impedance Basics
+Admittance Basics
+Thevenin's Theorem
+Norton's Theorem
+Superposition Theorem
+Maximum Power Transfer
+Star Delta Conversion
+Delta Star Conversion
+Mesh Analysis
+Nodal Analysis
+Dependent Sources
+Independent Sources
+Ideal vs Real Sources
+Internal Resistance
+Battery Basics
+Battery Types
+Charging and Discharging
+Energy Storage
+Supercapacitors
+Electromagnetic Induction
+Faraday's Law
+Lenz's Law
+Self Inductance
+Mutual Inductance
+Magnetic Flux
+Magnetic Field Intensity
+Permeability
+Reluctance
+Magnetic Circuits
+Hysteresis
+Eddy Currents
+Core Losses
+Skin Effect
+Proximity Effect
+What is a Resistor
+Types of Resistors
+Carbon Film Resistor
+Metal Film Resistor
+Variable Resistors
+Potentiometers
+LDR Light Dependent Resistor
+Thermistors
+What is a Capacitor
+Capacitor Working Principle
+Types of Capacitors
+Ceramic Capacitors
+Electrolytic Capacitors
+Tantalum Capacitors
+Capacitor Charging
+Capacitor Discharging
+RC Circuits
+Time Constant
+What is an Inductor
+Inductor Basics
+Inductive Reactance
+Magnetic Fields in Circuits
+Transformers Basics
+Ideal Transformer
+Practical Transformer
+Transformer Losses
+Efficiency of Transformer
+Auto Transformer
+Current Transformer
+Potential Transformer
+Coupled Inductors
+Resonance Basics
+Series Resonance
+Parallel Resonance
+Quality Factor
+Bandwidth of Resonant Circuit
+Component Ratings
+Component Tolerances
+Parasitic Elements
+Component Packaging
+SMD Components
+Through Hole Components
+Component Datasheets
+Reading Circuit Diagrams
+Breadboard Prototyping
+PCB Design Basics
+Soldering Techniques
+Desoldering Techniques
+ESD Protection
+Heat Dissipation
+Thermal Resistance
+Heatsinks
+Component Selection
+Decoupling Capacitors
+Bypass Capacitors
+Pull Up Resistors
+Pull Down Resistors
+Current Limiting Resistors
+Voltage Dividers
+RC Low Pass Filter
+RC High Pass Filter
+RL Circuits
+RLC Circuits
+Impedance Matching
+Balanced vs Unbalanced Signals
+Differential Signals
+Single Ended Signals
+What is a Semiconductor
+Silicon vs Germanium
+Energy Band Theory
+Conductors vs Semiconductors
+Intrinsic Semiconductors
+Extrinsic Semiconductors
+Doping Explained
+N-type Semiconductors
+P-type Semiconductors
+Charge Carriers
+Electron Mobility
+Hole Mobility
+PN Junction
+Depletion Region
+Built-in Potential
+Forward Bias
+Reverse Bias
+Breakdown Voltage
+Zener Effect
+Avalanche Breakdown
+Semiconductor Fabrication
+Crystal Structures
+Semiconductor Temperature Effects
+Semiconductor Devices Overview
+Drift Current
+Diffusion Current
+Continuity Equation
+Hall Effect
+Semiconductor Diode Equation
+Minority Carriers
+Majority Carriers
+Recombination
+Generation
+Lifetime of Carriers
+Fermi Level
+Band Gap Energy
+Direct vs Indirect Semiconductors
+Compound Semiconductors
+GaAs Basics
+Silicon Carbide SiC
+Gallium Nitride GaN
+Wide Bandgap Semiconductors
+Semiconductor Testing
+Wafer Fabrication
+Photolithography
+Etching Process
+Oxidation in Fabrication
+Diffusion in Fabrication
+Ion Implantation
+Metallization
+Packaging of ICs
+Yield in Fabrication
+What is a Diode
+PN Junction Diode
+Diode IV Characteristics
+Rectifiers
+Half Wave Rectifier
+Full Wave Rectifier
+Bridge Rectifier
+Ripple Voltage
+Filter Circuits
+Zener Diode
+Voltage Regulation
+LED Basics
+Infrared LEDs
+Photodiodes
+Solar Cells
+Schottky Diodes
+Varactor Diodes
+Tunnel Diodes
+Diode Switching
+Diode Clipping Circuits
+Diode Clamping Circuits
+PIN Diode
+Laser Diode
+Avalanche Photodiode
+Transient Voltage Suppressor
+TVS Diode
+Diode Models
+Ideal Diode Model
+Practical Diode Model
+Reverse Recovery Time
+Forward Voltage Drop
+Diode Current Equation
+Peak Inverse Voltage
+Diode Power Dissipation
+Rectifier Design
+Smoothing Circuits
+Voltage Multipliers
+Half Wave Voltage Doubler
+Full Wave Voltage Doubler
+Diode Logic Gates
+Diode Applications
+Freewheeling Diode
+Flyback Diode
+Snubber Circuits
+Surge Protection
+ESD Diodes
+Bidirectional TVS
+Diode Arrays
+Optocouplers
+Phototransistors
+Opto Isolators
+What is a Transistor
+BJT Basics
+NPN Transistor
+PNP Transistor
+Transistor Regions
+Transistor as Amplifier
+Transistor as Switch
+Common Emitter Configuration
+Common Base Configuration
+Common Collector
+Biasing Methods
+Thermal Runaway
+Transistor Gain
+Small Signal Amplifiers
+MOSFET Basics
+JFET Basics
+Power Transistors
+Transistor Switching
+MOSFET Structure
+N Channel MOSFET
+P Channel MOSFET
+Enhancement Mode MOSFET
+Depletion Mode MOSFET
+MOSFET Characteristics
+MOSFET as Switch
+MOSFET as Amplifier
+CMOS Technology
+JFET Characteristics
+JFET Amplifier
+Darlington Pair
+Cascode Amplifier
+Differential Amplifier
+Current Mirror
+Voltage Follower
+Emitter Follower
+Source Follower
+Transistor Biasing
+Fixed Bias
+Voltage Divider Bias
+Collector Feedback Bias
+h Parameters
+Transistor Data Sheet
+Power Dissipation in Transistor
+Safe Operating Area
+Transistor Frequency Response
+Cutoff Frequency
+Gain Bandwidth Product
+IGBT Basics
+IGBT Applications
+SCR Thyristor
+TRIAC Basics
+DIAC Basics
+Power Electronics Overview
+What is Amplification
+Voltage Amplifiers
+Current Amplifiers
+Power Amplifiers
+Class A Amplifier
+Class B Amplifier
+Class AB Amplifier
+Class D Amplifier
+Feedback in Amplifiers
+Negative Feedback
+Positive Feedback
+Oscillators Basics
+RC Oscillator
+LC Oscillator
+Crystal Oscillator
+Wien Bridge Oscillator
+Colpitts Oscillator
+Hartley Oscillator
+Phase Shift Oscillator
+Multivibrators
+Astable Multivibrator
+Monostable Multivibrator
+Bistable Multivibrator
+555 Timer Basics
+555 Timer Astable Mode
+555 Timer Monostable Mode
+Op Amp Basics
+Ideal Op Amp
+Inverting Amplifier
+Non Inverting Amplifier
+Summing Amplifier
+Difference Amplifier
+Integrator Op Amp
+Differentiator Op Amp
+Comparator Basics
+Schmitt Trigger
+Instrumentation Amplifier
+Active Filters
+Low Pass Active Filter
+High Pass Active Filter
+Band Pass Filter
+Band Stop Filter
+Signal Conditioning
+Noise in Analog Circuits
+Signal to Noise Ratio Analog
+Dynamic Range
+Slew Rate
+Input Offset Voltage
+Common Mode Rejection Ratio
+Open Loop Gain
+Closed Loop Gain
+Virtual Ground
+Op Amp Applications
+Precision Rectifier
+Peak Detector
+Sample and Hold Circuit
+Digital vs Analog
+Binary Number System
+Decimal to Binary
+Binary Addition
+Logic Gates
+AND Gate
+OR Gate
+NOT Gate
+NAND Gate
+NOR Gate
+XOR Gate
+Truth Tables
+Boolean Algebra
+De Morgans Theorem
+Combinational Logic
+Sequential Logic
+Flip Flops
+Latches
+Registers
+Counters
+Multiplexers
+Decoders
+Memory Basics
+Hexadecimal Number System
+Octal Number System
+Number System Conversions
+Binary Subtraction
+Twos Complement
+Ones Complement
+Signed Numbers
+Binary Multiplication
+Binary Division
+BCD Code
+Gray Code
+Excess 3 Code
+Parity Bits
+Error Detection
+Hamming Code
+Karnaugh Maps
+SOP and POS
+Logic Minimization
+Half Adder
+Full Adder
+Half Subtractor
+Full Subtractor
+Ripple Carry Adder
+Carry Lookahead Adder
+Magnitude Comparator
+Encoder
+Priority Encoder
+Decoder Design
+Demultiplexer
+SR Flip Flop
+JK Flip Flop
+D Flip Flop
+T Flip Flop
+Master Slave Flip Flop
+Edge Triggered Flip Flop
+Shift Registers
+SISO Register
+SIPO Register
+PISO Register
+PIPO Register
+Ring Counter
+Johnson Counter
+Up Down Counter
+Synchronous Counter
+Asynchronous Counter
+State Machines
+Mealy Machine
+Moore Machine
+State Diagrams
+ROM Basics
+RAM Basics
+SRAM vs DRAM
+Flash Memory
+Cache Memory
+Memory Hierarchy
+Programmable Logic
+PLA Basics
+PAL Basics
+CPLD Basics
+What is Embedded Systems
+Microcontroller vs Microprocessor
+Architecture of Microcontrollers
+GPIO Explained
+Interrupts
+Timers
+PWM Signals
+ADC Basics
+DAC Basics
+Serial Communication
+UART
+SPI
+I2C
+Embedded Programming Basics
+RTOS Basics
+Embedded Design
+Sensor Interfacing
+Harvard vs Von Neumann Architecture
+Instruction Set Architecture
+RISC vs CISC
+Pipeline in Processors
+Memory Mapped IO
+Direct Memory Access DMA
+Bootloader Basics
+Firmware Development
+Bare Metal Programming
+Interrupt Service Routine
+Priority Interrupts
+Watchdog Timer
+Real Time Clock
+Flash Memory in MCU
+EEPROM in MCU
+Debugging Embedded Systems
+JTAG Interface
+SWD Interface
+Logic Analyzer Usage
+Oscilloscope in Debugging
+CAN Bus Basics
+RS232 Communication
+RS485 Communication
+USB Basics
+Ethernet Basics
+Bluetooth Basics
+WiFi Basics
+ZigBee Basics
+LoRa Basics
+Modbus Protocol
+Low Power Design
+Sleep Modes in MCU
+Battery Powered Systems
+Power Management IC
+Voltage Regulator in Embedded
+LDO Regulator
+Switching Regulator
+Buck Converter
+Boost Converter
+Buck Boost Converter
+What is Communication System
+Analog Communication
+Digital Communication
+AM Modulation
+FM Modulation
+PM Modulation
+Bandwidth
+Noise in Communication
+Signal to Noise Ratio
+Multiplexing
+Frequency Division Multiplexing
+Time Division Multiplexing
+Cellular Communication
+4G Basics
+5G Basics
+Satellite Communication
+Fiber Optics
+Wireless Protocols
+Modulation Index
+Demodulation Basics
+Superheterodyne Receiver
+AM Receiver
+FM Receiver
+PCM Basics
+Delta Modulation
+Sampling Theorem
+Nyquist Rate
+Aliasing
+Quantization
+Encoding Schemes
+NRZ Encoding
+Manchester Encoding
+ASK Modulation
+FSK Modulation
+PSK Modulation
+QAM Basics
+OFDM Basics
+Spread Spectrum
+CDMA Basics
+TDMA Basics
+FDMA Basics
+Channel Capacity
+Shannons Theorem
+Error Control Coding
+Cyclic Redundancy Check
+Convolutional Codes
+Turbo Codes
+LDPC Codes
+MIMO Technology
+Antenna Basics
+Antenna Types
+Dipole Antenna
+Monopole Antenna
+Patch Antenna
+Antenna Gain
+Antenna Radiation Pattern
+Link Budget
+Path Loss
+Propagation Models
+Fading in Wireless
+Multipath Propagation
+Doppler Effect in Communication
+VLSI Basics
+FPGA Basics
+ASIC Design
+Digital Signal Processing
+Fourier Transform
+Fast Fourier Transform
+Filters in DSP
+AI Hardware Accelerators
+Edge AI
+Neuromorphic Computing
+Quantum Electronics
+Photonics
+IoT Architecture
+Smart Sensors
+Autonomous Systems
+Robotics Electronics
+Biomedical Electronics
+Radar Systems
+Microwave Engineering
+Antenna Design
+VLSI Design Flow
+RTL Design
+Logic Synthesis
+Place and Route
+Static Timing Analysis
+Design for Testability
+Scan Chain
+Built In Self Test
+Power Analysis in VLSI
+Signal Integrity
+Cross Talk in PCB
+Impedance Controlled Routing
+High Speed PCB Design
+EMC Basics
+EMI Shielding
+RF Circuit Design
+Transmission Lines
+Coaxial Cable
+Waveguides
+Smith Chart
+S Parameters
+Vector Network Analyzer
+Spectrum Analyzer
+Phase Locked Loop
+Voltage Controlled Oscillator
+Frequency Synthesizer
+Mixer Circuits
+Low Noise Amplifier
+Power Amplifier RF
+RF Filter Design
+Duplexer Basics
+Transceiver Architecture
+Software Defined Radio
+DSP Processor Architecture
+FIR Filter Design
+IIR Filter Design
+Z Transform
+Discrete Fourier Transform
+Windowing in DSP
+Convolution
+Correlation
+Digital Filter Implementation
+Fixed Point vs Floating Point
+DSP Applications
+Image Processing Basics
+Video Processing Basics
+Speech Processing
+Biomedical Signal Processing
+ECG Signal Processing
+EEG Signal Processing
+Neural Network Hardware
+GPU Architecture
+TPU Basics
+FPGA for AI
+Quantum Computing Basics
+Qubit Explained
+Quantum Gates
+Quantum Entanglement
+Quantum Cryptography
+Photonic Integrated Circuits
+Silicon Photonics
+LiDAR Basics
+MEMS Sensors
+Accelerometer Basics
+Gyroscope Basics
+Pressure Sensor
+Temperature Sensor IC
+Hall Effect Sensor
+Proximity Sensor
+Ultrasonic Sensor
+Infrared Sensor
+Gas Sensor
+Humidity Sensor
+Smart Grid Basics
+Power Electronics in Renewable Energy
+Solar Inverter
+Wind Energy Electronics
+Battery Management System
+Electric Vehicle Electronics
+Motor Drive Basics
+BLDC Motor Control
+Stepper Motor Control
+Servo Motor Control
+Industrial Automation
+PLC Basics
+SCADA Systems
+Industrial IoT
+Wearable Electronics
+Medical Devices Electronics
+Implantable Devices
+Hearing Aid Electronics
+Pacemaker Electronics
+Drone Electronics
+Autonomous Vehicle Electronics
